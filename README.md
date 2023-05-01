@@ -3,17 +3,12 @@
 
 - 🔭 I’m currently working on [RND.de](RND.de)
 
-- 🌱 I’m currently learning **Nextjs, Firebase, Docker, Kubernetes**
-
-- 👨‍💻 All of my projects are available at [hamedfatehi.com](hamedfatehi.com)
-
-- 📝 I regularly write articles on [hamedfatehi.com](hamedfatehi.com)
+- 🌱 I’m currently learning **Nextjs, Firebase, GCP, NestJS, SEO, Docker, Kubernetes**
 
 - 💬 Ask me about **React, Angular, Jasmin and in general Software Development**
 
 - 📫 How to reach me **hamed.fatehi.66@gmail.com**
 
-- 📄 Know about my experiences [https://hamedfatehi.com/resume](https://hamedfatehi.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
