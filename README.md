@@ -5,7 +5,7 @@
 
 - 💼 My website: https://hamedfatehi.com/
 
-- 🌱 I’m currently learning **Nextjs, Firebase, GCP, NestJS, SEO, Docker, Kubernetes**
+- 🌱 I’m currently learning **Django and Python**
 
 - 💬 Ask me about **React, Angular, Jasmin and in general Software Development**
 
