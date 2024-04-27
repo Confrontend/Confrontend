@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hamed Fatehi</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate fullstack developer with focus on frontend</h3>
 
 - 🔭 I’m currently working on [RND.de](RND.de)
 
 - 💼 My website: https://hamedfatehi.com/
 
-- 🌱 I’m currently learning **Django and Python**
+- 🌱 I’m currently learning **C# and Blazer**
 
 - 💬 Ask me about **React, Angular, Jasmin and in general Software Development**
 
